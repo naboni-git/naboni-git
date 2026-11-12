@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Naboni Abrham
 
-Computer Science student at **Addis Ababa University** and Full-Stack Software Development & QA Engineering student at **IBT College of Canada**, passionate about **cybersecurity**. Top achiever: **550.00 / 600** on the Ethiopian national university entrance exam (ESSLCE), 4.0 GPA, Rank 1 with Distinction. Content creator on TikTok with **4K+ followers**, inspiring high schoolers and students to aim high.
+Computer Science student at **Addis Ababa University** and Full-Stack Software Development & QA Engineering student at **IBT College of Canada**, passionate about **cybersecurity**. Top achiever: **550/ 600** on the Ethiopian national university entrance exam (ESSLCE), 4.0 GPA, Rank 1 with Distinction. Content creator on TikTok with **4K+ followers**, inspiring high schoolers and students to aim high.
 
 🌐 **Portfolio:** [naboni-git.github.io/portfolio](https://naboni-git.github.io/portfolio)
 
